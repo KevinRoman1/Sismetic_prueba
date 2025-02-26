@@ -20,7 +20,7 @@ Ejecuta el siguiente script en SQL Server para crear la base de datos y las tabl
 
 1. Abre **SQL Server Management Studio (SSMS)**.
 2. Conéctate a tu instancia de SQL Server.
-3. Ejecuta el script `database_script.sql` incluido en este repositorio.
+3. Ejecuta el script `Query BD_ROMAN` incluido en este repositorio.
 
 ### 2️⃣**Modificar la Conexion de la Base de Datos**
 El archivo DatabaseConfig.cs contiene la configuración de la conexión a la base de datos.
