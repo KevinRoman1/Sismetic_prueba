@@ -1,5 +1,5 @@
 
-# Registro Usuarios Sistematic
+# Registro Usuarios Sismetic
 
 Este proyecto permite la visualizacion,ingreso y modificacion de usuarios de una base de datos.
 
